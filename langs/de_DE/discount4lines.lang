@@ -1,0 +1,16 @@
+#
+# Generic
+#
+
+Module110302Name = Discount4Lines
+Module110302Desc = Rabatt auf Zeilen des Kaufvertrags und der Rechnung anwenden
+
+BtnDiscount4Lines = Rabatt auf Zeilen
+ApplyDiscount4linesTitle = Rabatt auf Zeilen anwenden
+EnterDiscountToApplyToEachLines = Geben Sie den Prozentsatz ein, der auf die einzelnen Zeilen angewendet werden soll.
+Discount4linesApplied = Rabatt erfolgreich angewendet: %s
+
+#Conf
+discount4linesSetup = Einrichtung des Discount4Lines-Moduls
+APPLY_TO_PRODUCTS=Rabatt auf Produktlinien anwenden
+APPLY_TO_SERVICES=Rabatt auf Dienstleistungszeilen anwenden
